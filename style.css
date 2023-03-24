@@ -45,7 +45,7 @@ nav ul {
   list-style: none;
   width: auto;
   overflow: hidden;
-  background-color: darkblue;
+  background-color: rgba(120, 212, 243, 0.63);
   position: sticky;
 }
 nav li {
